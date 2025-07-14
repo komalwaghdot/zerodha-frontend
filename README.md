@@ -1,39 +1,28 @@
-# 🏠 Airbnb Clone — Full Stack Project
+# Zerodha Clone (Frontend)
 
-A fully functional full-stack clone of Airbnb built as a practice project to learn the **MERN** stack and web development best practices.
+A frontend clone of Zerodha's trading platform — built using **React**.
 
----
+## 🚀 Features
 
-## 🚀 Live Demo
+- Responsive user interface
+- Dashboard layout with charts (work in progress)
+- Login / Signup pages (UI only)
+- Navigation bar and side panels
 
-👉 [View the Deployed Website Here](https://YOUR_DEPLOYED_LINK.com)
+## 🛠️ Tech Stack
 
----
+- React
+- Chart.js (or your chosen chart library)
+- CSS Modules / Tailwind (specify what you use)
 
-## 📌 Tech Stack
+## 📦 How to Run Locally
 
-- **Frontend:** React, HTML, CSS, Bootstrap (or Tailwind, if you used that)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (or MySQL if you used it)
-- **Other:** JWT Authentication (if implemented), CRUD operations
+```bash
+# Install dependencies
+npm install
 
----
+# Start the development server
+npm start
+https://github.com/komalwaghdot/zerodha-frontend
 
-## ✨ Features
-
-✅ User authentication (register & login)  
-✅ Create, view, edit, and delete listings  
-✅ Booking flow (optional, if you added)  
-✅ Responsive UI and mobile-friendly design  
-✅ RESTful API integration between frontend and backend  
-✅ Deployed live using Render / Vercel / Netlify / Heroku
-
----
-
-## ⚙️ How to Run Locally
-
-1. **Clone the repository**
-
-   ```bash
-   git clone 
-   cd airbnb-clone
+   
